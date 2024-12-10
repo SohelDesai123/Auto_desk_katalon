@@ -6,12 +6,12 @@
    <elementGuidId>58e2cbe5-9b58-4c43-b667-1e4bfd0a41b9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/following::button[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.ant-btn.login-form-button.login-form-margin.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6d03d9a3-5279-4f42-aaa4-762360bdc10c</webElementGuid>
+      <webElementGuid>700ee2c8-25c2-4ed9-8356-0d99276cc400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-btn login-form-button login-form-margin ant-btn-primary</value>
-      <webElementGuid>5e530c43-32b1-42a0-be3b-1513398cb4c2</webElementGuid>
+      <webElementGuid>afc2a94a-a584-4eca-b1a1-68efe9568dc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>b95bfada-b5d6-4a38-998b-473e20fdd95c</webElementGuid>
+      <webElementGuid>2d8e867f-35ed-43f5-a1d8-ae8108574fa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/nz-skeleton[@class=&quot;ant-skeleton ant-skeleton-active ng-star-inserted&quot;]/form[@class=&quot;login-form ant-form ant-form-horizontal ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/button[@class=&quot;ant-btn login-form-button login-form-margin ant-btn-primary&quot;]</value>
-      <webElementGuid>e87d06a4-cd38-41cf-a36f-12771ce1b9e6</webElementGuid>
+      <webElementGuid>70759d6a-6c6d-4393-9725-a2bace9add78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/following::button[1]</value>
-      <webElementGuid>9d77ead1-7532-4798-a806-3293f7272d07</webElementGuid>
+      <webElementGuid>89d71846-d7e2-49e6-a820-2b97b96692ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='register now!'])[1]/preceding::button[1]</value>
-      <webElementGuid>0f3bdb8f-b17f-4618-a04e-b7f54e6ce24b</webElementGuid>
+      <webElementGuid>85e3e569-5804-42d6-bf20-f6d4b59b4509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>43afa2e7-ecf8-43e2-8100-e4f336f87346</webElementGuid>
+      <webElementGuid>b891ce10-aba9-4312-93be-d8b6550b6a12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>736c726b-afcf-45d1-9a4e-cf4d173b35bd</webElementGuid>
+      <webElementGuid>524ab5e5-eacb-47af-b370-527589f191b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

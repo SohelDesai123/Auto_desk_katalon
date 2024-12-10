@@ -6,12 +6,12 @@
    <elementGuidId>f8132d23-a353-4b05-a693-28059846c05e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='forgot password?'])[1]/following::button[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='forgot password?'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>16e2b7b1-6df4-4ad8-89f1-0973a3803a47</webElementGuid>
+      <webElementGuid>a7b602d0-71ef-43a8-88ad-2240e7245098</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>d76bf2da-e264-43a4-b97c-74e605c9bcda</webElementGuid>
+      <webElementGuid>c8e9a0f0-8934-44fd-a668-67578929432d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONTINUE</value>
-      <webElementGuid>944fc81e-74de-4d11-b1a6-5ba286d7ad38</webElementGuid>
+      <webElementGuid>deeb2b11-a494-4c47-9a0d-9807d20a7252</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;aa-content-body&quot;]/div[@class=&quot;center-container page-login&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;log-in-container&quot;]/div[2]/div[1]/div[@class=&quot;text-center&quot;]/div[1]/form[@class=&quot;form-wrapper ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/fieldset[1]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>8af2143e-66a7-4b44-950d-6ab11486415c</webElementGuid>
+      <webElementGuid>7873f093-0b72-4220-a1b6-c091d7b8da9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='forgot password?'])[1]/following::button[1]</value>
-      <webElementGuid>2473e7fd-f472-45c5-b24b-bd491ea6f711</webElementGuid>
+      <webElementGuid>7b614668-6146-4943-97ea-ae4ee0e4e2f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>40525324-5892-4d8a-bf17-9346c57119e5</webElementGuid>
+      <webElementGuid>61ed260b-377a-404c-9e68-5897c6618c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'CONTINUE' or . = 'CONTINUE')]</value>
-      <webElementGuid>c71badbb-e8c7-48f5-93ae-2219ba270cbf</webElementGuid>
+      <webElementGuid>641a9b22-1427-46aa-b420-63f91fcef1c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

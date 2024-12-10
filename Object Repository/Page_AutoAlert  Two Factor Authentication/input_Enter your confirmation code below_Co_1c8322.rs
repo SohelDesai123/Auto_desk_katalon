@@ -6,12 +6,12 @@
    <elementGuidId>1ac6d1a8-8d52-460f-9795-ea949d294648</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='ConfirmationCode']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ConfirmationCode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ConfirmationCode']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c6fa7fb4-1983-49ad-93f0-a0ceee580343</webElementGuid>
+      <webElementGuid>27f44e1b-7ac7-4c21-b181-d5b43c8ed970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>confirmationcodeholder form-log-in </value>
-      <webElementGuid>64ef4c78-73fd-4629-a86b-87e68589c199</webElementGuid>
+      <webElementGuid>b8983c15-2ca4-4994-bcd9-2b2c787d2ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ConfirmationCode</value>
-      <webElementGuid>039cf119-1c7a-4f71-bc10-6f213cc58877</webElementGuid>
+      <webElementGuid>2332f015-2ee5-4805-8bda-137cfa097a45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>b2c51db4-ca20-478f-999a-7fea2fe9aad4</webElementGuid>
+      <webElementGuid>7ed0914c-8d61-4246-b912-70306b07f22c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ConfirmationCode</value>
-      <webElementGuid>0c719c46-dbec-406e-bc87-105ee9a03946</webElementGuid>
+      <webElementGuid>0b63e2b2-2e8b-4abc-bd59-f623821ae06b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>oninvalid</name>
       <type>Main</type>
       <value>setCustomValidity('')</value>
-      <webElementGuid>06eb243f-18c9-4d7e-8661-6b223c14d704</webElementGuid>
+      <webElementGuid>afe7e0f2-b7bd-4bc6-b068-4eea2a364d4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Confirmation Code</value>
-      <webElementGuid>3cab2ec3-5a26-4de5-ab30-b4c7a6a7fab1</webElementGuid>
+      <webElementGuid>d162c2d3-82e8-47a0-904e-44e19a2652b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>32c55ffa-ec88-487c-822b-2eead93b6394</webElementGuid>
+      <webElementGuid>439140dc-9a7f-489d-9900-3299bb898791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ConfirmationCode&quot;)</value>
-      <webElementGuid>c7d63b46-d4eb-44c9-983d-aba34b09e356</webElementGuid>
+      <webElementGuid>b5c6fd1b-5ed6-4ba1-b7d7-e8e62b69dd4c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ConfirmationCode']</value>
-      <webElementGuid>2e2d9428-7ee9-4ba8-809c-7bd21bfe791b</webElementGuid>
+      <webElementGuid>21cab19e-28d6-4d62-9ed3-3183371f6862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input[2]</value>
-      <webElementGuid>28576b2f-b2b3-4d42-897c-60ffcd9cf186</webElementGuid>
+      <webElementGuid>0b5e401b-0d8c-41fe-ae59-92dacfea42cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'ConfirmationCode' and @name = 'ConfirmationCode' and @placeholder = 'Confirmation Code' and @type = 'text']</value>
-      <webElementGuid>096ecbe6-619f-48a0-9cf9-13667d50f2cf</webElementGuid>
+      <webElementGuid>9455b84a-3ff9-4f3b-80f1-34c2bba75b65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

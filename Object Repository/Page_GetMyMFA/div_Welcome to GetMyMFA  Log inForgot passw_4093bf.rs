@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to GetMyMFA  Log inForgot passw_4093bf</name>
+   <tag></tag>
+   <elementGuidId>1fdb5731-2339-49c1-9e13-0a87f92a35c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-login/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Welcome to GetMyMFA Log inForgot passwordLog in Or register now!By logging in yo&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa7676ec-6143-430d-a66c-7367a5851482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>56d43112-c11c-410e-8db3-92b4cf9ef9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to GetMyMFA  Log inForgot passwordLog in Or register now!By logging in you accept our Terms and Conditions and our Privacy Policy.</value>
+      <webElementGuid>e7d4bc63-dc30-47e0-ae3b-68ad9081f630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;inner-content&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login&quot;]</value>
+      <webElementGuid>527ce4fa-39ce-45d3-bd59-99271f1e45ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-login/div</value>
+      <webElementGuid>a302e00e-1b28-4c5c-b79d-375750656dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome to GetMyMFA  Log inForgot passwordLog in Or register now!By logging in you accept our Terms and Conditions and our Privacy Policy.' or . = 'Welcome to GetMyMFA  Log inForgot passwordLog in Or register now!By logging in you accept our Terms and Conditions and our Privacy Policy.')]</value>
+      <webElementGuid>5ff73960-6e4a-447d-8c78-ab8327186cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

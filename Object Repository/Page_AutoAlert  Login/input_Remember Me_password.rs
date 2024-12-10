@@ -6,12 +6,12 @@
    <elementGuidId>05119939-5575-4944-a58b-e0c9d4416214</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='password']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c26598d7-8c33-4fbc-9e36-ab4cf69ce791</webElementGuid>
+      <webElementGuid>4093ca1c-8f77-4081-b405-2bef67884da0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>810f02cb-ac3d-46d7-8e41-460fbaf351c9</webElementGuid>
+      <webElementGuid>8bcdefac-7d62-407d-b88b-53f4dd5ee3c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>2722ceec-0061-4517-bd24-0d77453b77f9</webElementGuid>
+      <webElementGuid>aefd97ff-5864-458e-90cb-bd898766eb99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +53,15 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>0f9ff563-cddf-437a-a494-d773a375567f</webElementGuid>
+      <webElementGuid>6c783f75-2a49-4973-86e5-be10e4ca94a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-log-in ng-untouched ng-isolate-scope ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required</value>
-      <webElementGuid>125bce71-5807-48f1-af71-ea914896c3a2</webElementGuid>
+      <value>form-log-in ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required ng-valid-maxlength</value>
+      <webElementGuid>ef5b80e8-606a-414d-ac87-b4d30df73b53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onchange</name>
       <type>Main</type>
       <value>setCustomValidity('')</value>
-      <webElementGuid>66e404f2-eb60-4e11-bd2b-917701f20061</webElementGuid>
+      <webElementGuid>8397326a-ca11-41ee-8646-cb462adee1de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>oninvalid</name>
       <type>Main</type>
       <value>setCustomValidity(translationService.getTranslations().errorMsgEmptyUsernamePassword)</value>
-      <webElementGuid>2a7830fa-c5dd-4925-96be-e83205d6c649</webElementGuid>
+      <webElementGuid>1b4ff3e2-aa48-4535-9641-bf297a1a6ae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>6a08e920-d161-4ddf-988e-0883bebf5cb7</webElementGuid>
+      <webElementGuid>fed41a7e-f91a-4abb-a950-ec69861d5418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>model.password</value>
-      <webElementGuid>8e16d39a-ba2d-4b70-8828-02731c537e50</webElementGuid>
+      <webElementGuid>e8dd5324-5da4-44cf-9806-538ff9c42409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>98409b5d-e09b-4ee3-b5b7-1dfd74c4e3d7</webElementGuid>
+      <webElementGuid>c0517f4c-144a-430a-8406-994134dcae05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>214eeae6-fdc1-4748-9d4a-dae0ee1cc05e</webElementGuid>
+      <webElementGuid>270714a9-6105-4863-b5c3-c0dd208cb817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>focus-if</name>
       <type>Main</type>
       <value>model.username</value>
-      <webElementGuid>4a7c4b5d-3394-45b5-9133-0042c41b8060</webElementGuid>
+      <webElementGuid>e4bde1ec-7713-4a1c-b880-b637b0ed2b5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>ba159439-33cf-4935-831b-e526f2f8b13c</webElementGuid>
+      <webElementGuid>b4b1d23f-876f-4503-92a8-5e773e06eea3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>efb76bc9-5c60-4e2b-b11a-5ab1c27d1efc</webElementGuid>
+      <webElementGuid>b9d81dd1-3225-4850-94a9-8fc49ca73789</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>f5871671-60f0-4793-b81f-5597cb5fe169</webElementGuid>
+      <webElementGuid>b1fae7a3-a606-428f-8598-87946d2464b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password' and @name = 'password' and @type = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>ba24d6f8-e329-462b-82ba-956b62dc2ec1</webElementGuid>
+      <webElementGuid>bde96031-3cf4-4b42-aeb5-8d0fc9da44bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

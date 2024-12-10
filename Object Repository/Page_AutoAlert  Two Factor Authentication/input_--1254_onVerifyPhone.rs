@@ -6,12 +6,12 @@
    <elementGuidId>560c82f1-7f14-4e38-9c33-c2d1eadd1fe1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='onVerifyPhone']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;onVerifyPhone&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='onVerifyPhone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>efc5b8a3-b027-4fe9-80d1-f98e97bbb05c</webElementGuid>
+      <webElementGuid>51c5a965-283e-4591-911a-e60e4a65ce0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>29ce46c3-c7bb-4fc5-ba74-c6d1bccccd8c</webElementGuid>
+      <webElementGuid>75a10da8-9059-4683-8ccc-37b3da9ef7e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Send Confirmation via SMS</value>
-      <webElementGuid>0a62d6a5-860c-46bf-afe9-25a52b9793fe</webElementGuid>
+      <webElementGuid>eccb79d5-1a64-4284-a7a2-13cda48d3f95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>onVerifyPhone</value>
-      <webElementGuid>0cd32845-35d3-434a-a75f-b15ac1b3c3f2</webElementGuid>
+      <webElementGuid>6ba4f389-13a0-41fd-9e83-b7b36d9c9abf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary send-code-button input-override</value>
-      <webElementGuid>f41c5e99-47bb-4c9c-b350-f1388316aa15</webElementGuid>
+      <webElementGuid>4b37f0e8-a619-4714-b308-fb9702286be5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope&quot;]/body[1]/div[@class=&quot;aa-content-body&quot;]/div[@class=&quot;center-container page-{page}&quot;]/div[@class=&quot;page-body&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-valid&quot;]/div[@class=&quot;form-wrapper&quot;]/div[@class=&quot;text-center color-white&quot;]/input[@class=&quot;btn btn-primary send-code-button input-override&quot;]</value>
-      <webElementGuid>ef4c3485-7294-41d2-bab4-cb7ea0b91707</webElementGuid>
+      <webElementGuid>ae125314-d8e5-4d5c-925a-5a9a9d3d0e6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='onVerifyPhone']</value>
-      <webElementGuid>a614333b-08cb-46da-94ef-0c1b4d816641</webElementGuid>
+      <webElementGuid>5b2e0abf-8de2-4c99-97c8-2ee841e27b1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>a3758fd9-ed25-4104-b5b7-f101b42a4d83</webElementGuid>
+      <webElementGuid>ad65067a-7a47-4708-b6f2-499da1a95092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'onVerifyPhone']</value>
-      <webElementGuid>1bcffb36-cbbc-4edf-8bbd-328f287300a9</webElementGuid>
+      <webElementGuid>6d3699c4-61bb-436a-b69d-3a3709bd4087</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
